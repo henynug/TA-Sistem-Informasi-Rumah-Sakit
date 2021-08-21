@@ -9,6 +9,7 @@
                 <li><a href="?menu=dokter"><i class="icon-paper-clip"></i> Dokter</a></li>
                 <li><a href="?menu=poliklinik"><i class="icon-paper-clip"></i> Polklinik</a></li>
                 <li><a href="?menu=rekam"><i class="icon-paper-clip"></i> Rekam Medis</a></li>
+                <li><a href="?menu=pelayanan"><i class="icon-paper-clip"></i> Pelayanan <span class="badge badge-warning" data-container="body">New</span></a></li>
                 <li><a href="?menu=user"><i class="icon-user "></i> Daftar User</a></li>
             </ul>
         </div>
